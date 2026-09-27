@@ -1,0 +1,8 @@
+{
+  "name": " Novaforge online ",
+  "description": "3D Open-World Shooter and Vehicle Action Game with GTA-style wanted system, heists, dynamic vehicles, police chases, and combat arenas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
